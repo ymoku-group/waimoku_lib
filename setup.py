@@ -17,7 +17,7 @@ def read(file_name: str):
 
 setup(
     name='waimoku',
-    version='0.0.4',
+    version='0.0.9',
     description='ワイもくのConnpasで取得しているアンケートから運営に必要な情報を抽出するPythonのScript です。',
     long_description=read("README.rst"),
     author='Atsuki Seo',
