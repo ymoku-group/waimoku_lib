@@ -1,0 +1,2 @@
+# waimoku_lib
+ワイもくのConnpasで取得しているアンケートから運営に必要な情報を抽出するPythonのScript
