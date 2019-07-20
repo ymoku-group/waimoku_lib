@@ -1,3 +1,4 @@
+README.md
 setup.py
 waimoku/__init__.py
 waimoku/client.py
