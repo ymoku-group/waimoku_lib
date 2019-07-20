@@ -17,7 +17,7 @@ def read(file_name: str):
 
 setup(
     name='waimoku',
-    version='0.0.3',
+    version='0.0.4',
     description='PythonScript to convert "Waimoku" participant information into "Yahoo! LODGE" participant list file format',
     long_description=read("README.rst"),
     author='Atsuki Seo',
