@@ -5,8 +5,14 @@ setup(
     name='waimoku',
     version='0.0.1',
     description='PythonScript to convert "Waimoku" participant information into "Yahoo! LODGE" participant list file format',
-    author='Atsuki Seo',
+    author='Waimoku',
+    maintainer='Waimoku',
     install_requires=["pandas", "openpyxl"],
+    license="MIT",
+    classifiers=[
+        'Programming Language :: Python :: 3.7',
+        'License :: OSI Approved :: MIT License'
+    ],
     packages=find_packages(),
     package_data={
         "waimoku": ["res/*.xlsx"]
