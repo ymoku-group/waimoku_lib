@@ -3,10 +3,10 @@ from setuptools import find_packages
 
 setup(
     name='waimoku',
-    version='0.0.2',
+    version='0.0.3',
     description='PythonScript to convert "Waimoku" participant information into "Yahoo! LODGE" participant list file format',
-    author='Waimoku',
-    maintainer='Waimoku',
+    author='Atsuki Seo',
+    maintainer='Atsuki Seo',
     install_requires=["pandas", "openpyxl"],
     license="MIT",
     classifiers=[
